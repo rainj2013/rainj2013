@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rainj2013</title>
+  <desc id="desc">吃饭、写代码、折腾 AI Agent 的手绘风个人页头图</desc>
+  <rect x="8" y="8" width="984" height="304" rx="30" fill="#fefce8" stroke="#3d3422" stroke-width="6"/>
+  <path d="M25 265c96-35 153 19 238-8s142 23 229-2 146 18 229-5 153 14 254-9v62H25Z" fill="#eafff0"/>
+  <path d="M25 265c96-35 153 19 238-8s142 23 229-2 146 18 229-5 153 14 254-9" fill="none" stroke="#5ab85a" stroke-width="4" stroke-linecap="round"/>
+
+  <g fill="#3d3422" font-family="'Comic Sans MS','Kaiti SC','KaiTi',sans-serif">
+    <text x="72" y="122" font-size="62" font-weight="700" transform="rotate(-1 72 122)">Hi, I’m Rainj2013</text>
+    <text x="76" y="178" font-size="28">吃饭 · 写代码 · 折腾 AI Agent</text>
+  </g>
+  <path d="M76 195c91 7 187-5 350 1" fill="none" stroke="#5ab85a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M77 201c102 5 218-3 326 0" fill="none" stroke="#3d3422" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+
+  <g stroke="#3d3422" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M696 115c-2-48 33-83 83-82 52 1 86 36 83 84-3 45-37 75-84 74-48-1-79-30-82-76Z" fill="#fffdf3" stroke-width="6"/>
+    <path d="M715 66l10-30 12 16 14-32 12 27 18-34 11 33 22-26-1 37" fill="none" stroke-width="6"/>
+    <path d="M698 102c-18-8-22 20-2 25m164-23c20-9 24 20 1 26" fill="none" stroke-width="6"/>
+    <circle cx="753" cy="110" r="7" fill="#3d3422" stroke="none"/>
+    <circle cx="808" cy="109" r="7" fill="#3d3422" stroke="none"/>
+    <path d="M740 132c8 34 61 38 79-3" fill="none" stroke-width="7"/>
+
+    <path d="M744 194c18-6 53-5 72 1l12 65h-97l13-66Z" fill="#eafff0" stroke-width="6"/>
+    <path d="M742 209c-27 12-45 26-61 22m137-21c24 13 42 26 58 22" fill="none" stroke-width="6"/>
+    <path d="M749 260l-4 36m63-36 5 36m-68 0-20 2m88-2 20 2" fill="none" stroke-width="6"/>
+
+    <path d="M600 219h93l11 55H590l10-55Z" fill="#fff9e6" stroke-width="5"/>
+    <path d="M575 276h145" fill="none" stroke-width="6"/>
+    <path d="M635 238h27m-20-10 8 8-8 8" fill="none" stroke="#5ab85a" stroke-width="5"/>
+
+    <path d="M900 238c0-25 13-42 29-42s29 17 29 42" fill="#f5ead0" stroke-width="5"/>
+    <path d="M906 220c17 7 31 7 46 0" fill="none" stroke-width="4"/>
+    <path d="M920 184c-4-15 10-20 17-8 7-12 21-7 17 8" fill="#5ab85a" stroke-width="4"/>
+  </g>
+
+  <path d="M642 75c-7-13-24-4-17 9l17 20 18-20c7-13-11-22-18-9Z" fill="#5ab85a" stroke="#3d3422" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M910 65l10 4-9 6 7 10m-321 31-11 4 10 7-8 10" fill="none" stroke="#5ab85a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
