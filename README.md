@@ -23,6 +23,3 @@
 | [verify-code-quality-skill](https://github.com/rainj2013/verify-code-quality-skill) | 帮助 AI Coding Agent 验证代码质量的 Skill |
 | [dbctx](https://github.com/rainj2013/dbctx) | 让 AI Coding Agent 基于真实数据库快照理解表结构、索引和数据量 |
 
-## 写点东西
-
-我的博客在 [rainj2013.top](https://rainj2013.top)。技术之外，也会写美食、游戏、汽车和育儿。
