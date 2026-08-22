@@ -2,12 +2,6 @@
   <img src="./assets/profile-header.svg" width="100%" alt="Rainj2013 的手绘风个人页头图">
 </p>
 
-<p align="center">
-  <a href="https://rainj2013.top">个人博客</a> ·
-  <a href="https://github.com/rainj2013/luna-remote">Luna Remote</a> ·
-  <a href="https://github.com/rainj2013/ward-agent">Ward Agent</a>
-</p>
-
 ## 你好，我是 Rainj2013
 
 喜欢美食和游戏，也花不少时间做 AI Agent 和开发工具。
